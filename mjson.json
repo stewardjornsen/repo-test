@@ -96,6 +96,7 @@
         {
             "title": "Pneuma Rhema",
             "date": "Sunday, 24th November 2019",
+			 "time": "1pm - 3pm",
             "venue": "Iwofe",
             "theme": "In the Beginning",
             "featuring": [
@@ -105,6 +106,23 @@
                 },
                 {
                     "name": "Singer: Andrew James",
+                    "photo": "~/images/silhouette.jpg"
+                }
+            ]
+        },
+		 {
+            "title": "The Steward's Marriage Anniversary Celebration",
+            "date": "Sunday, 25th November 2019",
+			"time": "11am - 2pm",
+            "venue": "Flat B2, Mauvin Estate, 22 Harrison Street, Off Incarnate Road, by Abundant Life Church, Umuebulu 2, Oyigbo/Etche, Rivers State",
+            "theme": "Divine Dynamism",
+            "featuring": [
+                {
+                    "name": "Speaker: Temerigha Reuben",
+                    "photo": "~/images/silhouette.jpg"
+                },
+                {
+                    "name": "Singer: Thompson Akpoigbe",
                     "photo": "~/images/silhouette.jpg"
                 }
             ]
