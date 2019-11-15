@@ -104,6 +104,7 @@
 			"time": "1pm - 3pm",
             "venue": "Iwofe",
             "theme": "In the Beginning",
+			"description": "",
             "featuring": [
                 {
                     "name": "Speaker: John Max",
@@ -126,6 +127,7 @@
 			"time": "11am - 2pm",
             "venue": "Flat B2, Mauvin Estate, 22 Harrison Street, Off Incarnate Road, by Abundant Life Church, Umuebulu 2, Oyigbo/Etche, Rivers State",
             "theme": "Divine Dynamism",
+			"description": "",
             "featuring": [
                 {
                     "name": "Speaker: Temerigha Reuben",
